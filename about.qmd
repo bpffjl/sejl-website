@@ -1,13 +1,15 @@
 ---
-title: "Ben Jaques-Leslie"
+title: "Sam Jaques-Leslie"
 about:
-  image: images/IMG_7196.jpeg
+  image: images/IMG_0113.JPG
   template: jolla
 ---
 
-This website belongs to Ben Jaques-Leslie. Ben is a husband and dad of three boys. He currently resides in Minneapolis, Minnesota. Ben is an data scientist and evaluator who has worked in international development, public assistance, and public sector workforce.
+This website belongs to Sam Jaques-Leslie. Sam is the oldest of three sons.
 
 ## Education
+
+Seward Montessori
 
 University of California, San Diego \| San Diego, CA MPIA in International Development \| Sept 2008 - June 2010
 
