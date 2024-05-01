@@ -1,0 +1,20 @@
+---
+title: "NAWRS 2023"
+description: "Presenting, talking, and having a good time at NAWRS 2023"
+author: "Ben Jaques-Leslie"
+date: "2023-10-31"
+categories:
+  - public assistance
+  - research
+  - conferences
+---
+
+A few weeks ago, I had a great time at the [NAWRS](https://nawrs.org/) 2023 Workshop in Salt Lake City, Utah. I'm more than a little biased because I am on the board of NAWRS and was the program co-chair. I had a lot to do with the the call for proposals, the selection of the presentation, and the organization. I was really happy with how it all turned out. People were having conversations about public assistance and research, how to respectively learn with participants, and how to put programs into practice.
+
+I was part of three sessions. My first was organized my [Donna Pavetti](https://www.linkedin.com/in/ladonna-pavetti-2002ab44), giant of TANF research and fascinating person. She brought TANF researchers and policy people together from Minnesota, Utah, and Washington to talk about what we've been doing in outcome measurement for TANF. I talked a lot about the [Self-Support Index](https://mn.gov/dhs/partners-and-providers/news-initiatives-reports-workgroups/economic-supports-cash-food/#11), which was my primary work while I was at the Minnesota Department of Human Service. My Utah and Washington colleagues spoke about employment data and using [WIOA measures](https://www.dol.gov/agencies/eta/performance/performance-indicators) for TANF. We had a great discussion with the attendees, talking about data availability, and collaborating with local partners.
+
+My second session was organized my [Rick Hendra](https://www.mdrc.org/about/richard-hendra) of MDRC to talk about the TANF Data Collaborative ([ACF report](https://www.acf.hhs.gov/opre/report/tanf-data-collaborative-pilot-profiles-collection-data-analytics-projects-state-county), [pilot profiles](https://www.mdrc.org/publication/tanf-data-collaborative-pilot-profiles), [video](https://www.acf.hhs.gov/opre/training-technical-assistance/improving-outcomes-families-through-better-use-data-tanf-data), and [MDRC page](https://www.mdrc.org/project/tanf-data-innovation#overview)). I was back with my colleagues from Utah. Rick gave an overview of the programs and Nycole (Utah) and I (Minnesota) talked about our pilots. We had a very engaged group and it was a pleasure to talk about our work exploring the relationship between participant racial identity and sanctions.
+
+My last session was about Minnesota's Emergency SNAP implementation. I did a lot of data work on the program and was very excited to go into the gory data details with people. You can find the slides for the presentation [here](https://bpffjl.github.io/esnap-nawrs).
+
+We had a fun time in Utah. It's rare for researchers in local governments to have a chance to get together to talk about their work. NAWRS was a great opportunity to share and learn from each other as always.

@@ -1,0 +1,19 @@
+[
+  {
+    "listing": "/poems.html",
+    "items": [
+      "/poems/post-1.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/post-6.html",
+      "/posts/post-5.html",
+      "/posts/post-4.html",
+      "/posts/post-2.html",
+      "/posts/post-3.html",
+      "/posts/post-1.html"
+    ]
+  }
+]

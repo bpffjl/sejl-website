@@ -1,0 +1,16 @@
+---
+title: "Caffetto"
+description: "Checking out Caffetto in Minneapolis"
+author: "Ben Jaques-Leslie"
+date: "2023-10-30"
+categories:
+  - coffee
+---
+
+I love the vibe of [Caffetto](http://www.caffettocafe.com/). It's not sleek or pristine. From my view I can see walls painted red and gold, covered with paintings by local artists. Cabinets are stuffed with piles or board games. A creepy bust sits by the window next to a pink lamp and two figurines. The music is old-sounding Americana, which probably isn't to old.
+
+Unfortunately, I'm pretty underwhelmed by the coffee. My cappuccino is harsh and tastes of charred wood. The drink was prepared by holding back the foam in the steaming pitcher and pouring the hot milk into the espresso. Then the foamy was scooped on top. That's never been my favorite way to make a cappuccino, but I was open to seeing what it tasted like. The first sip was all sweet foam. When i tried again and got some coffee, it tasted bitter and thick.
+
+![Cappuccino at Caffetto](/images/IMG_7635.JPG){fig-align="right"}
+
+I won't go out of my way to come here again.

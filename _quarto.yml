@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+      - text: "Home"
+        file: about.qmd
+      - text: Blog
+        file: blog.qmd
+      - text: Poems
+        file: poems.qmd
+    right:
+      - icon: rss
+        href: blog.xml
+  repo-url: https://github.com/bpffjl/bpffjl-website
+  repo-actions: [issue]
+  title: "Ben Jaques-Leslie's website"
+  site-url: https://bpffjl.github.io/bpffjl-website/
+  description: "Ben Jaques-Leslie's website and blog"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual

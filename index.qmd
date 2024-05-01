@@ -1,0 +1,17 @@
+---
+title: "Ben Jaques-Leslie"
+---
+
+Hi! Welcome to Ben Jaques-Leslie's website.
+
+On this site, you can find a blog about my work, my opinions about coffee shops, breweries, and other things. I'll also post my poems and other arts here. Also, I'll add my CV.
+
+![Enjoying a coffee at Caffe Driade in Chapel Hill](images/71060202974__4C46D3F0-AFA0-47D3-A56C-A2796E78B87A.fullsizerender.JPG)
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```

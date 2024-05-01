@@ -1,0 +1,24 @@
+---
+title: "Ben Jaques-Leslie"
+about:
+  image: images/IMG_7196.jpeg
+  template: jolla
+---
+
+This website belongs to Ben Jaques-Leslie. Ben is a husband and dad of three boys. He currently resides in Minneapolis, Minnesota. Ben is an data scientist and evaluator who has worked in international development, public assistance, and public sector workforce.
+
+## Education
+
+University of California, San Diego \| San Diego, CA MPIA in International Development \| Sept 2008 - June 2010
+
+University of North Carolina \| Chapel Hill, NC B.S. in Mathematics \| Sept 2000 - December 2002
+
+## Experience
+
+US Office of Personnel Management \| Program Evaluator \| November 2023 - present
+
+Minnesota Department of Human Services \| Research Scientist \| August 2016 - November 2023
+
+US General Services Administration \| Data Scientist \| November 2022 - September 2023
+
+Abdul Latif Jameel Poverty Action Lab at MIT \| Senior Research and Training Manager \| June 2010 - July 2016

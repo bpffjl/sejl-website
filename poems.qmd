@@ -1,0 +1,8 @@
+---
+title: "Poems"
+listing:
+  contents: poems
+  sort: "date desc"
+  type: default
+  categories: true
+---
